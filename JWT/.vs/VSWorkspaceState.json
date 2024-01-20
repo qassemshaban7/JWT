@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestApiJWT",
+    "\\TestApiJWT\\Controllers",
+    "\\TestApiJWT\\Helpers",
+    "\\TestApiJWT\\Models",
+    "\\TestApiJWT\\Services"
+  ],
+  "SelectedNode": "\\TestApiJWT\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}
